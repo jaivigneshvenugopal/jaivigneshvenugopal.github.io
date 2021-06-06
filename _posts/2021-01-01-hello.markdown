@@ -3,11 +3,11 @@ layout: post
 title:  "Hello!"
 ---
 
-I am Jaivignesh (Vig would do, actually) and this site serves to provide a deeper understanding of the projects I've done till now.   
+I am Vignesh and this site serves to provide a **deeper understanding** of the projects I've worked on till now.   
   
-Most people would just list their projects on Github and call it a day - this does not usually do justice to all the hard work and intelligence behind beautiful creations. I try to take a different approach here by giving you a visual demonstration, aided by succinct explanations for a given product.    
+Most people would just list their projects on Github and call it a day - this, however, does not usually do justice to all the hard work and intelligence behind beautiful creations. I try to take a different approach here by giving you a **visual demonstration**, aided by succinct explanations for a given product.    
   
-The project titles are listed on the side panel, prefixed by the year of its completion.
+The **project titles** are listed on the side panel, prefixed by the year of its completion.
 
 Happy reading! 
 
