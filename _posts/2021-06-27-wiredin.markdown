@@ -1,0 +1,40 @@
+---  
+layout: post  
+title:  "WiredIn"  
+--- 
+<img src="/assets/img/wiredin/wiredin.png">    
+  
+### Introduction  
+WiredIn is a web application that provide a means for uploading individual bank statements to consolidate expenditure across various platforms (credit card, debit & ATM transactions) and reflect in a visually pleasing structure.   
+  
+In this era, due to plethora of choices available for modes of payment, it is increasingly difficult for consumers to keep track of their expenditure. Moreover, relying on multiple banking mobile applications make it tedious for one to manually consolidate all the transactions across the different platforms.  
+  
+Therefore, most would turn to manually calculating it using excel sheets. WiredIn tries to make this process a little simpler for individuals.  
+  
+### Usage  
+Due to security concerns - since it involved bank statements - this application was not released. However, the screenshots below tells the story of how the application would have been used.  
+  
+The user would have to download bank statements in the CSV format from his relevant bank accounts and upload it into the app  
+  
+<img src="/assets/img/wiredin/upload.png">    
+  
+  
+  
+When the user visits the dashboard, he would have a consolidated view of the transactions for the month. If he wants to only view transactions for a particular bank, the interface along the side panels allow for that.  
+  
+<img src="/assets/img/wiredin/dashboard.png">    
+  
+  
+  
+This particular view concerns itself with the calendar; how much the individual had spent on each day of the month.  
+  
+<img src="/assets/img/wiredin/calendar.png">
+
+### Thoughts
+This was my first ever software project. It was the end of my first year in college and I had teamed up with a fellow batchmate to create something for the summer. We did this under the banner of a programme called Orbital, which encouraged students to come up with their first sofware product during the holidays.
+
+The interesting fact was that this was supposed to be a project that the students were expected to learn and produce on their own. It was a foreshadow for the coming years as a software engineer - to learn and build things on your own. 
+
+We had not pressured ourselves much but went in to learn as much as possible from this experience. When school reopened on August 2017, we set up a booth to explain our product to fellow students and professors. Surprisingly, our product won "Honourable Mention" in the category and we were decalred one of the winners of Orbital Programme 2017.
+
+It was an amazing experience overall :)
