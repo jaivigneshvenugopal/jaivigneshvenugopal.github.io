@@ -75,7 +75,7 @@ After an iteration, a percentage (20-30%) of the nests are randomly discarded. T
 
 This process is repeated till a good enough solution emerges.
 
-This algorithm eventually - after running for 7/8 hours or so - yielded a solution that cleared 5 millions lines on average.
+This algorithm eventually - after running for 7/8 hours or so - yielded a solution that cleared 5 million lines on average.
 
 ### Tech Stack  
 This desktop application was built using the following technologies:  
