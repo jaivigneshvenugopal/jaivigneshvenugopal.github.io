@@ -14,16 +14,18 @@ AI Tetris Agent is available for the Linux, Windows, and Mac OS operating system
 1. Ensure you have Java installed in your computer      
 2. Ensure that you have Java Development Kit (JDK) installed on your computer      
 3. Clone the git repository from [here](https://github.com/jaivigneshvenugopal/Tetris-Agent)      
-4. Run the following command in the terminal: `javac PlayerSkeleton.java` 5. Followed by this: `java PlayerSkeleton`      
+4. Run the following command in the terminal: `javac PlayerSkeleton.java` 
+5. Followed by this: `java PlayerSkeleton`      
    
- The agent in progress:      
+ The agent in progress:
+
 <img width="1080" src="/assets/img/tetris/tetris1.gif">      
  
 ### Understanding the Problem   
  The rules of the game are fairly straightforward. A piece slowly descends from the top and the player is supposed to tactically place it in a position such that it aligns perfectly with the other resting pieces - block of lines or a singular line disappears every time this happens and points are earned. The player is allowed to rotate the falling pieces to his liking before proceeding to place it.      
   
 <img src="/assets/img/tetris/tetris2.png">  
-(Picture [credits](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253727/751065_FULLTEXT01.pdf?sequence=2&isAllowed=y))  
+[Picture [credits](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253727/751065_FULLTEXT01.pdf?sequence=2&isAllowed=y)]  
   
 For an AI to perform this task similarly - and well - it has to firstly know in which orientation it should place the piece and precisely in what column its final destination should be. Neither the human or the AI could look into the future to determine what the next piece will be. One can only decide on what to do with the current piece at the moment it appears. As long as this is done well, the game could be beaten with a very high score (in the range of millions).  
       
@@ -42,7 +44,7 @@ These were some of the heuristics used in building the agent:
 
 <img src="/assets/img/tetris/tetris3.png">  
 
-(**Wells** and **Holes** - Picture [credits](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253727/751065_FULLTEXT01.pdf?sequence=2&isAllowed=y))  
+[**Wells** and **Holes** - Picture [credits](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253727/751065_FULLTEXT01.pdf?sequence=2&isAllowed=y)]  
   
 The idea is that once the agent learns what the next piece is, it runs simulations for all possible moves - orientation and position - using the incoming piece. After simulating each move, it uses the heuristics on the new game state to decide on the most rewarding move among all possible moves. This way, it will have enough time to rotate and place it before time runs out. Doing so sequentially for every single new piece would guarantee a good score in the long run.    
       
@@ -59,7 +61,7 @@ This was a project done with 4 other students in an AI class. Therefore, there w
 
 <img width="400" src="/assets/img/tetris/tetris4.jpg">  
 
-(Picture [credits](https://en.wikipedia.org/wiki/Cuckoo))  
+[Picture [credits](https://en.wikipedia.org/wiki/Cuckoo)]
   
 The paper describing this algorithm could be found [here](https://arxiv.org/pdf/1003.1594.pdf).    
   

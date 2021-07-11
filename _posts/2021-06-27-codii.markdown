@@ -42,3 +42,5 @@ This was my first formal software engineering project with 3 fellow schoolmates 
 This project was not really just about coding out a product - it actually entailed the entire process of product development. We drew up UML diagrams, discussed with prototypes, learned to pitch our product, wrote up lines and lines of documentation and most importantly, learned to work on an existing codebase - just like in the real world.
 
 It was hard, but it taught me the relevant skills to work in a large team.
+
+<img width="800" src="/assets/img/codii/5.jpg">
