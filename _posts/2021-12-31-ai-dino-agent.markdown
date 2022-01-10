@@ -2,7 +2,7 @@
 layout: post    
 title:  "AI Dino Agent"    
 --- 
-<img src="/assets/img/dino/dino_img.png">    
+<img width="150" src="/assets/img/dino/dino_img.png">    
   
 ### Introduction
 The AI Dino Agent is a computer program that plays the [Chrome Dino](https://en.wikipedia.org/wiki/Dinosaur_Game) game without any human aid. The goal of the agent is to primarily attain a good high score and also to play the game in a way that is indistinguishable from a human. 
