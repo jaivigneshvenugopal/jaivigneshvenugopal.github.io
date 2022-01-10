@@ -17,10 +17,7 @@ This project has only been tested with Windows. Therefore, ensure that you clone
     ```
     pip install -r requirements.txt
     ```
-4. Download the binary_models (**banana_v1.pt**) and save it under /binary_models folder
-    ```
-    https://drive.google.com/file/d/1VdKvKIX8Qy-dsi9Yh-kgKfYG9StoPshg/view?usp=sharing
-    ```
+4. Download the binary_models (**banana_v1.pt**) from [here](https://drive.google.com/file/d/1VdKvKIX8Qy-dsi9Yh-kgKfYG9StoPshg/view?usp=sharing) and save it under /binary_models folder.
 5. Run the Game
     ```
     python dino_agent.py
@@ -33,13 +30,13 @@ The agent in progress:
 </p>
 
 ### Tech Stack
-This project was built using Python, PyTorch and Selenium.
+This project was built using Python, [PyTorch](https://pytorch.org/) and [Selenium](https://selenium-python.readthedocs.io/).
 
 Click [here](https://github.com/jaivigneshvenugopal/ai-dino-agent) to view the code repository.
 
 ### Approach
 
-The game is simple in the sense that there are only two controls for the player - a jump command and a duck command. The Dino character jumps over obstacles and ducks away from flying creatures - birds etc based on the respective commands. Doing so for a considerable amount of time builds the score. 
+The game is simple in the sense that there are only two controls for the player - a *jump* command and a *duck* command. The Dino character jumps over obstacles and ducks away from flying creatures - birds etc based on the respective commands. Doing so for a considerable amount of time builds the score. 
 
 #### Current Methods vs Our Method
 There have been multiple attempts in solving the Dino game problem. These attempts revolve around the use of Reinforcement Learning and Q-Learning, thereby bypassing the need for a  labelled dataset. In place of a dataset, these techniques allow the agent to build proficiency by employing the use of repeated automated simulations. 
@@ -85,3 +82,8 @@ Among all the architectures we experimented with, we observed the best results f
 Based on the results from evaluating the test set and also evaluating using live games, we came to the conclusion that it was possible to solve the problem of building an AI Dino Agent - albeit on a modified game with simplified rules - by converting it into a classification problem.
 
 ### Thoughts
+This project was done with 2 other students for a Master's level Deep Learning course (CS5242). The module coordinators were pretty clear about making sure that this was not a project that involved hours of training using high-calibre GPUs. Instead, it was about writing different architectures from scratch and experimenting with different parameters for a given problem that required learning.
+
+The project was open-ended, and I liked that. We wanted to try building an agent that did not use reinforcement learning but simple classification, and I believe we managed to do that.
+
+Interesting stuff.
