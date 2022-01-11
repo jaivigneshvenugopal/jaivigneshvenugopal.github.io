@@ -44,3 +44,4 @@ This project was not really just about coding out a product - it actually entail
 It was hard, but it taught me the relevant skills to work in a large team.
 
 <img width="800" src="/assets/img/codii/5.jpg">
+
