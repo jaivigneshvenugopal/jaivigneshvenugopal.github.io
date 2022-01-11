@@ -37,10 +37,11 @@ This desktop application was built using the following technologies:
 Click [here](https://github.com/jaivigneshvenugopal/Codii) to view the code repository.
 
 ### Thoughts
-This was my first formal software engineering project with 3 fellow schoolmates during our second year of computing degree. We had to build on a pre-existing address book (that was built using **Java**) and do our best to make it our own. I had taken 4 other modules that semester, but I do not really recall working on other modules as much as I did for this one.
+This was my first formal software engineering project with 3 fellow schoolmates during our second year of computing degree. We had to build on a pre-existing address book (that was built using **Java**) and do our best to make it our own. I had taken 4 other modules that semester, but I worked the hardest for this one.
 
 This project was not really just about coding out a product - it actually entailed the entire process of product development. We drew up UML diagrams, discussed with prototypes, learned to pitch our product, wrote up lines and lines of documentation and most importantly, learned to work on an existing codebase - just like in the real world.
 
 It was hard, but it taught me the relevant skills to work in a large team.
 
 <img width="800" src="/assets/img/codii/5.jpg">
+
