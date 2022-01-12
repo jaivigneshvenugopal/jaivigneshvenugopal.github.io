@@ -34,6 +34,9 @@ plugins:
 paginate: 1
 permalink: /:title
 
+# Google Analytics
+google_analytics: G-P8C93HGRJW
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
