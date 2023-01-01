@@ -11,4 +11,4 @@ The **project titles** are listed on the side panel, prefixed by the year of its
 
 Happy reading! 
 
-![](assets/img/dp.jpg)
+<img src="assets/img/dp2.jpg" width="350"/>

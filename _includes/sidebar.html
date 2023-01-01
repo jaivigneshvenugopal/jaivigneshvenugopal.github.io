@@ -10,14 +10,15 @@
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
   </header>
-  {% include sidebar-nav-links.html %}
   <hr class="rounded">
   <a class="sidebar-nav-item" href="/ai-dino-agent">2021 | AI Dino Agent</a>
   <a class="sidebar-nav-item" href="/maroon-lines">2020 | Maroon Lines</a>
   <a class="sidebar-nav-item" href="/ai-tetris-agent">2018 | AI Tetris Agent</a>
   <a class="sidebar-nav-item" href="/codii-book">2017 | Codii</a>
   <a class="sidebar-nav-item" href="/wiredin">2017 | Wired In</a>
-  {% if site.version %}
-    <span class="site-version">Currently v{{ site.version }}</span>
-  {% endif %}
+  <div>
+  <hr class="rounded">
+  {% include sidebar-icon-links.html %}
+  <p style="position: fixed; bottom: 1;">Jaivignesh Venugopal</p>
+  </div>
 </div>
