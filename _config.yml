@@ -27,7 +27,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jaivigneshvenugopal
 
 # Build settings
-theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
