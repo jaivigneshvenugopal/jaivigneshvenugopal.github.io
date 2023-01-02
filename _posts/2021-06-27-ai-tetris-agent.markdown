@@ -27,7 +27,7 @@ AI Tetris Agent is available for the Linux, Windows, and Mac OS operating system
 <img src="/assets/img/tetris/tetris2.png">  
 [Picture [credits](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/253727/751065_FULLTEXT01.pdf?sequence=2&isAllowed=y)]  
   
-For an AI to perform this task similarly - and well - it has to firstly know in which orientation it should place the piece and precisely in what column its final destination should be. Neither the human or the AI could look into the future to determine what the next piece will be. One can only decide on what to do with the current piece at the moment it appears. As long as this is done well, the game could be beaten with a very high score (in the range of millions).  
+For an AI to perform this task similarly - and well - it has to firstly know in which orientation it should place the piece and precisely in which column its final destination should be. Neither the human or the AI could look into the future to determine what the next piece will be. One can only decide on what to do with the current piece at the moment it appears. As long as this is done well, the game could be beaten with a very high score (in the range of millions).  
       
 However, it is difficult to define what it means to play a good move. Humans are able to intuitively know if the current state of the game conveys great potential for a long game, whereas it is difficult for the same human to explicitly program this knowledge to define a good move.     
     
@@ -75,7 +75,7 @@ After an iteration, a percentage (20-30%) of the nests are randomly discarded. T
 
 This process is repeated till a good enough solution emerges.
 
-This algorithm eventually - after running for 7/8 hours or so - yields a solution that gives a reputable highscore.
+This algorithm eventually - after running for 7/8 hours or so - yielded a solution that gave a reputable highscore.
 
 ### Tech Stack  
 This desktop application was built using the following technologies:  
