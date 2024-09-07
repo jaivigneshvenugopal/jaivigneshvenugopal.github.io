@@ -3,12 +3,16 @@ layout: post
 title:  "Hello!"
 ---
 
-I am Vignesh and this site serves to provide a **deeper understanding** of some software projects I've worked on.   
+I'm Vignesh, and I am a software engineer at [DBS Bank](https://www.linkedin.com/company/dbs-bank/), where I focus on backend systems and cloud infrastructure. Specifically, I serve as a core developer for the [Evolve PavedCloud](https://medium.com/dbs-tech-blog/introducing-evolve-pavedcloud-a-secure-public-cloud-that-could-accelerate-digital-transformation-d7274d0eb251) platform, which is used by developers across the bank. Previously, I was one of the first few engineers at [Threedy.ai](https://www.linkedin.com/company/threedy-ai/), a startup in the San Francisco Bay Area, where I worked on frontend systems. I hold a Master’s Degree in [Computer Science](https://www.comp.nus.edu.sg/programmes/pg/mcs/) and a Bachelor’s in [Computer Engineering](https://ceg.nus.edu.sg/) (Honours), both from the [National University of Singapore ](https://www.topuniversities.com/universities/national-university-singapore-nus) (NUS).
+
+I see **beauty** in writing software and in understanding the designs that others have poured their **love** into. My philosophy on software building can be summed up by these two excerpts alone: [Michelangelo's Block of Marble](assets/img/statue_of_david.png) and [Joys of the Programming Craft](assets/img/mythical_man_month.png). I work to become the best version of the **craftsman** I can be.
+
+This site serves to provide a **deeper understanding** of some personal software projects I've worked on.   
   
-Most people would just list their projects on Github and call it a day - this, however, does not usually do justice to all the hard work and intelligence behind beautiful creations. I try to take a different approach here by giving you a **visual demonstration**, aided by succinct explanations for a given project.    
+Most people would just list their projects on Github and call it a day - this, however, does not usually do justice to all the hard work and intelligence behind beautiful creations. I try to take a different approach here by giving you a **visual demonstration**, aided by elaborate explanations for each project.    
   
 The **project titles** are listed on the side panel, prefixed by the year of its completion.
 
 Happy reading! 
 
-<img src="assets/img/dp3.jpg" width="350"/>
+<img src="assets/img/dp5.png" width="350"/>
