@@ -5,13 +5,11 @@
   {% include google-analytics.html %}
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
-
-    {% include sidebar.html %}
-
     <main class="container">
       {{ content }}
     </main>
 
+    {% include sidebar.html %}
     {% include custom-foot.html %}
   </body>
 </html>
